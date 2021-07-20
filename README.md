@@ -88,3 +88,11 @@ added DSP instructions.
 [Local file](dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
 
 [External link](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
+
+## STM32CubeIDE Software Patches
+
+Located in ST software installation, for example:
+
+`c:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924\docs\gnu-tools-for-stm32_patches.pdf`
+
+[Local file](gnu-tools-for-stm32_patches.pdf)
